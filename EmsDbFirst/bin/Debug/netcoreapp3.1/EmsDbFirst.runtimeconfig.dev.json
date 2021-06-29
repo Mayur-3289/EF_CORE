@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mkasa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mkasa\\.nuget\\packages"
+    ]
+  }
+}
